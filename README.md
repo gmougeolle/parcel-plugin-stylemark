@@ -4,7 +4,7 @@ A (very) simple Parcel plugin to generate a Stylemark styleguide after each succ
 
 ---
 
-[【What is Parcel】](https://parceljs.org/) [【What is Stylemark](https://github.com/nextbigsoundinc/stylemark)
+[【What is Parcel】](https://parceljs.org/) [【What is Stylemark】](https://github.com/nextbigsoundinc/stylemark)
 
 ## Installation
 
@@ -20,6 +20,14 @@ or
 ```
 yarn add parcel-plugin-stylemark -D
 ```
+
+## Usage
+
+You just need to create a `.stylemark.yml` file in your project root.
+After each build, a `stylemark` folder will be generated in your `dist/` folder.
+There's no config file at the moment.
+
+PR are welcome.
 
 ## License
 
