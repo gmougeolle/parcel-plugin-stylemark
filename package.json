@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-stylemark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Parcel plugin to run Stylemark after each successful build",
   "main": "index.js",
   "scripts": {
